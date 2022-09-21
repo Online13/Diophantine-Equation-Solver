@@ -6,8 +6,8 @@ It's solver for diophantine equation.
 ## To do
 
 - [x] compute particular solition
-- [.] compute final solution
-- [.] format solution
+- [ ] compute final solution
+- [ ] format solution
 
 ## Contributing
 
